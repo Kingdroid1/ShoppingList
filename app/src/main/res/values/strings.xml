@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="action_settings">Settings</string>
+    <string name="item">New Item</string>
+    <string name="btn_name">Add</string>
+    <string name="update_item">Update</string>
+    <string name="activity_name">Add New Item</string>
+    <string name="activity2_name">Update Item</string>
+
+</resources>
